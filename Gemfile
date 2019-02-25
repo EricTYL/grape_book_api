@@ -37,6 +37,7 @@ gem 'grape'
 gem 'grape-entity'
 gem 'grape_on_rails_routes'
 gem 'faker'
+gem 'grape-swagger'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
